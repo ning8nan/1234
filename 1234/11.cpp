@@ -7,5 +7,6 @@
 
 int main(){
 	printf("%f",cos(60.0*3.14/180));
+	//wer
 	return 0;
 }
